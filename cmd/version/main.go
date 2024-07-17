@@ -12,7 +12,7 @@ package main
 import (
 	"fmt"
 
-	"cvgo"
+	"github.com/sakishum/cvgo"
 )
 
 func main() {
